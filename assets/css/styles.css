@@ -16,3 +16,15 @@ body {
 	color: #fff !important;
 	opacity: 1 !important;
 }
+
+section {
+	padding: 80px 0;
+}
+
+.hero-section {
+	padding-top: 150px;
+}
+.hero-banner-image{
+	width:500px;
+	height:auto;
+}
