@@ -24,7 +24,58 @@ section {
 .hero-section {
 	padding-top: 150px;
 }
-.hero-banner-image{
-	width:500px;
-	height:auto;
+
+.hero-banner-image {
+	width: 100%;
+	height: auto;
+}
+
+
+
+.img-1 {
+	position: absolute;
+	left: 5%;
+	top: 10%;
+	width: 150px;
+	height: auto;
+}
+
+.img-2 {
+	position: absolute;
+	right: 10%;
+	top: 13%;
+	width: 100px;
+	height: auto;
+}
+
+.img-3 {
+	position: absolute;
+	left: 5%;
+	bottom: 40%;
+	width: 50px;
+	height: auto;
+}
+
+.img-4 {
+	position: absolute;
+	right: 3%;
+	bottom: 45%;
+	width: 120px;
+	height: auto;
+}
+
+.img-gradient-1 {
+	position: absolute;
+	left: 8%;
+	top: 28%;
+	width: 130px;
+	height: auto;
+}
+
+.img-gradient-2 {
+	position: absolute;
+	right: 8%;
+	top: 30%;
+	width: 50px;
+	height: auto;
 }
