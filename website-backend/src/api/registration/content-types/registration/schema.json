@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "registrations",
+  "info": {
+    "singularName": "registration",
+    "pluralName": "registrations",
+    "displayName": "Registration"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "websiteDetails": {
+      "type": "text",
+      "required": true
+    },
+    "FullName": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+      "type": "email",
+      "required": true
+    },
+    "phoneNumber": {
+      "type": "integer",
+      "required": true
+    },
+    "domain": {
+      "type": "boolean",
+      "required": true
+    }
+  }
+}
